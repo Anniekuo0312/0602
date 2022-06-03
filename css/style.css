@@ -1,0 +1,71 @@
+@charset "utf-8";
+.p1 {
+    height: 300px;
+    background-color: #F8EFEF;
+    background-image: url(https://www.petbacker.com.tw/blog/images/golden-retriever.png);
+    background-position: center center;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    background-size: cover;
+}
+.p2 {
+    background-image: url(https://img.ltn.com.tw/Upload/playing/page/2019/12/19/191219-21843-01-BlRh6.jpg);
+    height: 300px;
+    background-position: right center;
+    background-size: cover;
+	margin-top: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+.p4 {
+    height: 300px;
+    background-image: url(https://pic.pimg.tw/thisfamily1688/1580657060-1180006163_l.jpg);
+    background-position: center center;
+    background-size: cover;
+	margin-top: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+.p3 {
+    height: 300px;
+    background-image: url(https://images.chinatimes.com/newsphoto/2020-10-28/1024/20201028004982.jpg);
+    background-position: center center;
+    background-size: cover;
+	margin-top: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+.p5 {
+    height: 300px;
+    background-image: url(https://images.chinatimes.com/newsphoto/2022-03-15/1024/20220315004881.jpg);
+    background-position: center center;
+    background-size: cover;
+	margin-top: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+.p6 {
+    height: 600px;
+    background-image: url(https://cdn.shopify.com/s/files/1/0081/1257/0450/articles/WhatsApp_Image_2021-03-09_at_8.09.53_PM.jpg?v=1615292222);
+    background-position: center center;
+    background-size: cover;
+	margin-top: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+.p7 {
+    height: 50px;
+    width: 1028px;
+    background-color: #F9D689;
+    text-align: center;
+    font-size: xx-large;
+    font-style: italic;
+}
